@@ -1,4 +1,10 @@
-body {
+h2 {
+    background-color: rgba(149, 134, 249, 255);
+    border-style: dashed;
+    border-color: rgba(149, 134, 249, 255);
+}
+
+p {
     background-color: rgba(149, 134, 249, 255);
     border-style: dashed;
     border-color: rgba(149, 134, 249, 255);
