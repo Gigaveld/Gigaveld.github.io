@@ -1,5 +1,13 @@
 body {
     background-color: rgba(149, 134, 249, 255);
+}
+
+h2 {
+    border-style: dashed;
+    border-color: white;
+}
+
+p {
     border-style: dashed;
     border-color: white;
 }
