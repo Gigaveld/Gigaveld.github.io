@@ -5,9 +5,20 @@ body {
 h2 {
     border-style: dashed;
     border-color: white;
+    border-radius: 12px;
+    padding: 2px;
 }
 
-p {
+h3 {
     border-style: dashed;
     border-color: white;
+    border-radius: 12px;
+    padding: 2px;
+}
+
+a {
+    border-style: dashed;
+    border-color: white;
+    border-radius: 12px;
+    padding: 2px;
 }
