@@ -23,9 +23,10 @@ h3 {
     padding: 2px;
 }
 
+#top {
+    text-decoration: underline;
+}
+
 a {
-    border-style: dashed;
-    border-color: white;
-    border-radius: 12px;
-    padding: 2px;
+    color: black;
 }
